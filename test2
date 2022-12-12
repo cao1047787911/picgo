@@ -1,0 +1,4 @@
+testtesttestgwm.cn
+      <option name="name" value="Releases Repository for JDK 1.8 builds" />
+      <option name="url" value="http://nexus.gwm.cn/repository/maven-public/" />
+    </remote-repository>
